@@ -7,4 +7,4 @@ solution = solve([
     Va * t + Vp * t - D
 ], (Va, Vp))
 
-print(solution)
+print(latex(solution))
